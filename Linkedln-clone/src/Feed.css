@@ -1,0 +1,36 @@
+.icons{
+   padding: 20px;
+   color: aqua;
+   background-color: blueviolet;
+}
+
+.input2{
+    background-color:white;
+    padding: 5px;
+    border-radius: 30px;
+    border : solid 1px black;
+    margin: 10px;
+}
+
+.feed_input{
+    background-color: white;
+    padding: 20px 0px 10px 5px;
+    width: 140%;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.feed_inputContainer{
+    width: 140%;
+    margin-top: 20px;
+}
+
+.input2 > input{
+    border: transparent;
+    width: 70%;
+}
+.input2 > button{
+    background-color: transparent;
+    border: transparent;
+    padding: 10px;
+}

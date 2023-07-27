@@ -1,0 +1,67 @@
+.fa{
+    color:white; 
+    font-size: 30px; 
+    padding-left:15px;
+    text-decoration: none;
+}
+.PraRoz{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(0, 102, 255);
+    padding-left: 80px;
+    margin-top: 120px;
+}
+
+.normal_size{
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.input_style{
+    margin-top: 15px;
+    padding: 7px 67px 7px 7px;
+    border-radius: 5px;
+    border-color:  #5099ff;
+    border-top-color: #5099ff;
+    background-color: transparent;
+}
+
+input::placeholder{
+    color: black;
+
+}
+
+.Login_box{
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: rgb(249, 249, 249);
+    padding: 20px;
+    float: right;
+    border-radius: 10px;
+}
+
+.button_style{
+    color: white;
+    padding: 7px;
+    background-color: #5099ff;
+    border: #5099ff;
+}
+
+.input_box{
+    background-color: transparent;
+    border-radius: 5px;
+    border-top: transparent;
+    border-right: transparent;
+    border-left: transparent;
+    border-bottom-color: #5099ff;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+
+.Button{
+    border-radius: 10px;
+    background-color: white; color:#5099ff;font-size:x-large;font-weight: bolder; padding: 5px 60px 5px 60px;
+}
